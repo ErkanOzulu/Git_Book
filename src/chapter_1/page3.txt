@@ -1,0 +1,6 @@
+Welcome to git
+I hope you are having fun
+Missing java maybe
+@users.noreply.github.com
+git config --global user.email "YOUR_EMAIL"
+git config --global user.name "YOUR NAME"
